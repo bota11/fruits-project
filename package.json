@@ -1,0 +1,15 @@
+{
+  "name": "fruits-project",
+  "version": "1.0.0",
+  "description": "Project about fruits",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "type": "module",
+  "author": "Botagoz Absattar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
